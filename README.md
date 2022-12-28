@@ -1,2 +1,2 @@
-# mobile
+# Mobile DEVELOPMENT for @COHORT 
 mobile repo
